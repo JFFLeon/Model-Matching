@@ -5,6 +5,8 @@ icao_type_designator
 icao_airline (optional)
 title
 
+The Python file can also read several aircraft.cfg files at the same time.
+
 
 Installation:
 1. Drag the .py into the mod folder, you want to scan.
