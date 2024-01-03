@@ -1,2 +1,13 @@
 # Model-Matching
-this is my model matching, this python file scans aircraft.cfg files and reads 3 following values: icao_type_designator, icao_airline, title and saves them formatted in a .vmr file.
+Hello,
+this ModelMatching code generates a .vmr file from the following Parameters:
+icao_type_designator
+icao_airline (optional)
+title
+
+
+Installation:
+1. Drag the .py into the mod folder, you want to scan.
+2. Drag the .vmr into the mod folder you want to scan.
+3. Run the script.
+
