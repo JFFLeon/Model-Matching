@@ -15,3 +15,8 @@ Installation:
 
 DISCORD: 
 jff_leon444_
+
+
+UPDATE:
+Version : 1.1
+DATE : 04.01.2024
